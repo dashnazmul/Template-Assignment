@@ -1,0 +1,47 @@
+body{
+    overflow-x: hidden;
+}
+
+.header-section{
+    background-color: #f8f9fa;
+}
+.table-section{
+    background-color: #f8f9fa;
+}
+
+/* ===== Table section */
+
+.table_title{
+    margin-top: 80px;
+}
+.first-row{
+    background-color: #c5d7f2;
+}
+.second-row{
+    background-color: #e2e3e5;
+}
+.third-row{
+    background-color: #c7dbd2;
+}
+.fourth-row{
+    background-color: #f8d7da;
+}
+.fifth-row{
+    background-color: #f2e7c3;
+}
+.sixth-row{
+    background-color: #cff4fc;
+}
+.seventh-row{
+    background-color: #ecedee;
+}
+.eighth-row{
+    background-color: #cfe2ff;
+}
+.ninth-row{
+    background-color: #c7dbd2;
+}
+
+.form-btn{
+    background-color: #198754;
+}
